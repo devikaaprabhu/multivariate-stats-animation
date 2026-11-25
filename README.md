@@ -60,3 +60,4 @@ Two synthetic 2D datasets were constructed using **NumPy**, each containing **55
 
 To run locally, open the included `.ipynb` notebook in Jupyter or VS Code and run all cells to regenerate `smile_sad.gif`.
 
+
